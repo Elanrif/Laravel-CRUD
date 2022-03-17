@@ -22,13 +22,13 @@
          <a class="nav-link active fw-bold fs-3" ia-currearnt="page" href="#"><i class="fa-brands fa-apple"></i> hootsuite</a >
         </li>
         <li class="nav-item">
-          <a class="nav-link active fw-bold mx-3" aria-current="page" href="#">plateforme</a>
+          <a class="nav-link active fw-bold mx-3" aria-current="page" href="#">plate forme</a>
         </li>
         <li class="nav-item">
           <a class="nav-link active fw-bold mx-3" href="#">forfaits</a>
         </li>
           <li class="nav-item">
-          <a class="nav-link active fw-bold mx-3" href="#">entreprise</a>
+          <a class="nav-link active fw-bold mx-3" href="#">entreprise de tetouan </a>
         </li>
           <li class="nav-item">
           <a class="nav-link active fw-bold mx-3" href="#">éducation</a>
