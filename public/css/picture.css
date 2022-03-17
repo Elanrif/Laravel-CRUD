@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+
+.text-center { 
+    color:white;
+    background: linear-gradient(rgba(51, 49, 49, 0.6),rgba(66, 65, 64, 0.6)),url("../image/soleil.jpg")center/cover;
+    height: 400px;
+    padding-top:100px;
+  font-family: 'Poppins', sans-serif;
+}
+.container-fluid{ 
+    text-align:center ;
+}
