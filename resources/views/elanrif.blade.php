@@ -25,13 +25,13 @@
           <a class="nav-link active fw-bold mx-3" aria-current="page" href="#">plate forme</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active fw-bold mx-3" href="#">forfaits</a>
+          <a class="nav-link active fw-bold mx-3" href="#">for faits</a>
         </li>
           <li class="nav-item">
           <a class="nav-link active fw-bold mx-3" href="#">entreprise de tetouan </a>
         </li>
           <li class="nav-item">
-          <a class="nav-link active fw-bold mx-3" href="#">éducation</a>
+          <a class="nav-link active fw-bold mx-3" href="#">L'éducation</a>
         </li>
           
         
